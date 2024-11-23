@@ -28,5 +28,8 @@ table.add_rows(
     ]
 )
 
+table.align = "l"
+
+
 print (table)
 
